@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhijit Pisal</h1>
-<h3 align="center">Selenium Test Automation Engineer | 4+ Years Experience | Python | Robot Framework| CI/CD</h3>
+<h3 align="center">Selenium Test Automation Engineer | 4 Years Experience | Python | Robot Framework| CI/CD</h3>
 
 ---
 
 💼 **About Me**
 
-- 🔍 QA Engineer specialized in **Test Automation** with over **4 years** of experience in writing scalable, maintainable test frameworks.
+- 🔍 QA Engineer specialized in **Test Automation** with nearly **4 years** of experience in writing scalable, maintainable test frameworks.
 - 🧪 Passionate about **automated testing, clean code, and continuous integration**.
 - ⚙️ Experienced with **Selenium WebDriver**, **Robot Framework**, **TestNG**, **Cucumber**, **Jenkins**, and **GitHub Actions**.
 - 🔄 Familiar with **Agile**, **Scrum**, and collaborative testing processes with Dev & QA teams.
