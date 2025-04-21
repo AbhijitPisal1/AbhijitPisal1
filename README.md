@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijit Pisal</h1>
-<h3 align="center">Selenium Test Automation Engineer | 4 Years Experience | Python | Robot Framework| CI/CD</h3>
+<h3 align="center">Test Automation Engineer | 4 Years Experience | Selenium | Python | Robot Framework| Cucumber</h3>
 
 ---
 
