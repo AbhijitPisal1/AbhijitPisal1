@@ -15,7 +15,7 @@
 
 🛠 **Tech Stack**
 
-- **Languages:** Python, SQL (basic)
+- **Languages:** Python, Java, SQL (basic)
 - **Automation Tools:** Selenium WebDriver, TestNG, Robot Framework, Cucumber, BDD
 - **API Testing:** Postman, 
 - **CI/CD:** Jenkins, GitHub Actions
@@ -26,14 +26,17 @@
 
 📌 **Featured Projects**
 
-- 🔹 [RobotFramework_Python](https://github.com/AbhijitPisal1/RobotFramework_Python)  
-  `Modular BDD + Keyword driven automation framework using Python, Robot Framework and Selenium Libraries`
+- 🔹 [robotframework-python-projects](https://github.com/AbhijitPisal1/robotframework-python-projects)
+  `Beginner-friendly repository to learn test automation with Robot Framework, Selenium, and Python, featuring hands-on mini-projects and interview preparation materials.`
 
 - 🔹 [Selenium TestNG Project](https://github.com/AbhijitPisal1/Selenium_Project)  
   `Java-based framework with Maven, custom reports, Selenium methods, and complete TestNG annotation usage`
 
 - 🔹 [Cucumber Testng Project](https://github.com/AbhijitPisal1/Cucumber_Testng_Project)  
   `BDD framework with Cucumber, TestNG, and Maven for testing book search on Danube Webshop.`
+  
+- 🔹 [ConduitArticle Cucumber Project](https://github.com/AbhijitPisal1/ConduitArticle_Cucumber_Project)
+  ` BDD framework using Cucumber, Selenium, and TestNG for automated testing, following the Page Object Model (POM) for maintainable test scripts.`
 
 ---
 
