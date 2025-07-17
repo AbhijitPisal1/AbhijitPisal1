@@ -37,6 +37,8 @@
   
 - 🔹 [ConduitArticle Cucumber Project](https://github.com/AbhijitPisal1/ConduitArticle_Cucumber_Project)
   ` BDD framework using Cucumber, Selenium, and TestNG for automated testing, following the Page Object Model (POM) for maintainable test scripts.`
+- 🔹 [Automation with Pytest & Playwright](https://github.com/AbhijitPisal1/automation-with-pytest-playwright.git)
+   ` Hands-on test automation framework using Pytest, Playwright, and BDD with Cucumber to test real-world scenarios like shopping cart apps.`
 
 ---
 
